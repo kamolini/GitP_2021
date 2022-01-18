@@ -12,6 +12,8 @@ public class Test1 {
 };
 a.sum();
 a.sum1();
+
+//New Line
 }
 }
 
